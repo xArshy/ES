@@ -606,8 +606,8 @@ pre code {
 .col-xl-9,
 .col-xl-auto {
  position:relative;
- width:25%;
- height:25%;
+ width:50%;
+ height:50%;
  min-height:1px;
  padding-right:15px;
  padding-left:5px;
